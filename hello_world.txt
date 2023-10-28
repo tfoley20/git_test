@@ -5,4 +5,7 @@ git add <filename> #will move the changes to staging
     git add . #will add all files in the directory to staging
 
 git commit -m "Add <filename>" #will commit the file
+
+got commit -m "Edit <filename> and <filename>" #will commit all files that are in the staging area
+
 git log #shows what was all done
